@@ -193,6 +193,10 @@ resume-column-title {
     margin-bottom: 20px;
     margin-top: 0px;
 }
+.section-description{
+    text-align: left;
+    margin: 10px;
+}
 
 .dowanload-cv {
     text-align: center;
@@ -214,6 +218,7 @@ footer {
 
 .social-links a {
     margin: 25px;
+    align-items: left;
 }
 
 .contact input[type="text"],
